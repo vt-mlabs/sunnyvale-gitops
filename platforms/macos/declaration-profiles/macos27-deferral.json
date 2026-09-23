@@ -1,0 +1,9 @@
+{
+  "Type": "com.apple.configuration.softwareupdate.settings",
+  "Identifier": "softwareupdate.defer-macos-27",
+  "Payload": {
+    "Deferrals": {
+      "MajorPeriodInDays": 90
+    }
+  }
+}
