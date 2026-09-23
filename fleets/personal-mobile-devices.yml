@@ -72,6 +72,12 @@ controls:
 # Apps to make available from the Apple App Store or Google Play
 ###########################################################
 software:
+  packages:
+    - path: ../platforms/windows/software/cloudflare-warp.yml
+      self_service: false
+  fleet_maintained_apps:
+    - slug: 1password/darwin
+      self_service: true
   app_store_apps:
     ###########################################################
     # iOS apps
