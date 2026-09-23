@@ -7,4 +7,4 @@
 - name: macOS 27 beta testers
   description: Hosts enrolled in beta program
   label_membership_type: manual
-  host:
+  hosts: []

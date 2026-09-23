@@ -16,8 +16,8 @@ org_settings:
     activities_webhook:
       enable_activities_webhook: true
       destination_url: https://example.org/webhook_handler
-      
-  org_info: sunnyvale
+
+  org_info:
     ###########################################################
     # The name of your organization is displayed to end users
     # during the setup experience for new hardware, and to admins
